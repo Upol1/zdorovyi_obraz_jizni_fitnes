@@ -1,0 +1,36 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "name": "Fitbit Inspire 2 Fitness Tracker",
+      "description": "Компактный фитнес-трекер с мониторингом активности, сердечного ритма и сна, длительным временем работы от батареи и водозащитой",
+      "price": "$99.95",
+      "image": "http://ae01.alicdn.com/kf/Hecb9013bf67445c293d5a17892ecb4e8c/LEMDIOE.jpg",
+      "type": "Fitness Tracker"
+    },
+    {
+      "id": "2",
+      "name": "Under Armour Men's Tech 2.0 Short Sleeve T-Shirt",
+      "description": "Удобная и вентилируемая футболка для занятий спортом, изготовленная из легкого материала с технологией быстрого высыхания",
+      "price": "$24.99",
+      "image": "https://www.shopthings.com/image/cache/catalog/2016-New-T-shirt-men-Tights-Fitness-Quick-Dry-Casual-Stretch-Top-Tee-Shirt-Fitness-Mma-Plus-Size-Hot-32658638840-4-800x800.jpeg",
+      "type": "Short Sleeve T-Shirt"
+    },
+    {
+      "id": "3",
+      "name": "Gaiam Essentials Thick Yoga Mat",
+      "description": "Толстый и удобный коврик для йоги, обеспечивающий амортизацию и комфорт во время практики",
+      "price": "$16.98",
+      "image": "https://www.refinery29.com/images/9582567.jpg",
+      "type": "Thick Yoga Mat"
+    },
+    {
+      "id": "4",
+      "name": "Osprey Packs Daylite Plus Daypack",
+      "description": "Легкий и прочный дневной рюкзак с вместительным основным отделением и дополнительными карманами для походов, треккинга и ежедневных прогулок.",
+      "price": "$65",
+      "image": "https://tirol.ru/upload/resize_cache/iblock/efd/1000_1000_1c8d3b8bf8904cd61d95b56a4a9832795/efd06b0ef25010b6f640a9e1785309ea.jpg",
+      "type": "Osprey Packs"
+    }
+  ]
+}
